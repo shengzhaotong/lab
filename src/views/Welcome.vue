@@ -1255,24 +1255,6 @@ export default {
     'app-footer':AppFooter,
     'app-Mobile-search':AppMobile_search
   },
-  /*
-  data () {
-    return {
-      menuMassage: [],
-      schedule: ""
-    }
-  },
-  created () {
-    this.getMassage();
-  },
-  methods: {
-    async getMassage () {
-      const response = await this.$http.get('/get_all_first_menu');
-      if (response.status !== 200 || response.data === "") return this.$message.error('获取数据失败');
-      this.menuMassage = response.data;
-      console.log(response.data);
-    }
-  }*/
 }
 </script>
 
