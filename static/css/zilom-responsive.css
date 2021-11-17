@@ -102,9 +102,9 @@
         margin-top: 0;
     }
 
-    .main-header-one__bottom {
+    /* .main-header-one__bottom {
         padding: 20px 0;
-    }
+    } */
 
 
     /***Main Header Two ***/
@@ -414,7 +414,7 @@
 
 
 /* Tablet Layout: 768px. */
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
 
     /*** Main Header One Css***/
     .main-header--one__top-contact-info {
@@ -1469,7 +1469,7 @@
 
 
 
-@media only screen and (max-width: 991px) {
+@media only screen and (max-width: 1200px) {
     .order-box-2 {
         -ms-flex-order: 2;
         order: 2;
@@ -1509,7 +1509,7 @@
 }
 
 
-@media only screen and (min-width: 768px) and (max-width: 991px) {
+@media only screen and (min-width: 768px) and (max-width: 1200px) {
 
 
     .main-slider__content-tagline {
