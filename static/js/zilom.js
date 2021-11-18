@@ -538,9 +538,11 @@
         dynamicCurrentMenuClass(mainNavUL);
       }
 
-
-
-
+      if ($(".main-menu__list").length && $(".mobile-nav__container").length) {
+        let navContent = document.querySelector(".main-menu__list").outerHTML;
+        let mobileNavContainer = document.querySelector(".mobile-nav__container");
+        mobileNavContainer.innerHTML = navContent;
+      }
 
       if ($(".sticky-header__content").length) {
         let navContent = document.querySelector(".main-menu").innerHTML;

@@ -11,7 +11,7 @@
                     <div class="col-xl-2 col-lg-4 col-md-4 wow animated fadeInUp" data-wow-delay="0.1s">
                         <div class="footer-widget__column footer-widget__about">
                             <div class="footer-widget__about-logo">
-                                <a href="index.html"><img src="static/picture/footer-logo.png" alt=""></a>
+                                <a href="/index"><img src="static/picture/logo-1.png" alt=""></a>
                             </div>
                         </div>
                     </div>

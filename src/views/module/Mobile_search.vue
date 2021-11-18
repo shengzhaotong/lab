@@ -7,7 +7,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="static/picture/mobilemenu_logo.png" width="155" alt="" /></a>
+                <a href="index" aria-label="logo image"><img src="static/picture/logo-1.png" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
